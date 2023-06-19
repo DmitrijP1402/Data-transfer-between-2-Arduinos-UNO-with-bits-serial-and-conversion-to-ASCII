@@ -1,3 +1,9 @@
+/********************************************
+date:      "19.06.2023"
+author:    "DmitrijP1402 & nico0123456"
+filename:  "Transmitter.ino"
+********************************************/
+
 // max 53 characters possible --> 424 bits
 
 void setup() {
